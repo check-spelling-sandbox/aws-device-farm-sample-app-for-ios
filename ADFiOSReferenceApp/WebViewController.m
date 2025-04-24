@@ -144,7 +144,7 @@ static NSString* const ERROR_MESSAGE_FORMAT = @"\"%@\" is a malformed URL. Pleas
 }
 
 /**
- *  Sets the accessibility for the webview to loaded if the webview succeded (used for testing)
+ *  Sets the accessibility for the webview to loaded if the webview succeeded (used for testing)
  *
  *  @param webView the webview 
  */
