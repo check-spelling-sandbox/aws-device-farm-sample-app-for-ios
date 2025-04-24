@@ -91,7 +91,7 @@ static NSString* const IMAGE_TYPE = @"png";
 /**
  *  Action for the pinch gesture. Scales the image based on touch.
  *
- *  @param recognizer the gesture regonizer.
+ *  @param recognizer the gesture recognizer.
  */
 -(IBAction)handlePinchGesture:(UIPinchGestureRecognizer*)recognizer {
     recognizer.view.transform = CGAffineTransformScale(recognizer.view.transform, recognizer.scale, recognizer.scale);
