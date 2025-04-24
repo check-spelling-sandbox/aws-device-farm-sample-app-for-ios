@@ -16,7 +16,7 @@
 #import "UIColor+ColorExtension.h"
 
 /**
- *  A convience class that returns app specific colours
+ *  A convenience class that returns app specific colours
  */
 @implementation UIColor (ColorExtension)
 + (UIColor*)flatOrange {

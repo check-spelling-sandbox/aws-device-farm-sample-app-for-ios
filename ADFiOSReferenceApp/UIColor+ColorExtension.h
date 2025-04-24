@@ -16,7 +16,7 @@
 #import <UIKit/UIKit.h>
 
 /**
- *  A convience class that returns app specific colours
+ *  A convenience class that returns app specific colours
  */
 @interface UIColor (ColorExtension)
 + (UIColor*)flatOrange;

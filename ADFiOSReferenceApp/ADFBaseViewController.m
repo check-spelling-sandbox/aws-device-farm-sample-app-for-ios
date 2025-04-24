@@ -27,7 +27,7 @@ static const CGFloat DEFAULT_UITEXTFIELD_HEIGHT = 40;
 /**
  *  A base controller for the view controllers within the app. 
  *
- * Contains app specific defaults and convienience methods
+ * Contains app specific defaults and convenience methods
  */
 @implementation ADFBaseViewController
 
@@ -113,7 +113,7 @@ static const CGFloat DEFAULT_UITEXTFIELD_HEIGHT = 40;
 }
 
 /**
- *  A convienience method so that the frame can be created with a point and size instead of CGRectMake
+ *  A convenience method so that the frame can be created with a point and size instead of CGRectMake
  *
  *  @param point     the point of the frame
  *  @param frameSize the size of the frame

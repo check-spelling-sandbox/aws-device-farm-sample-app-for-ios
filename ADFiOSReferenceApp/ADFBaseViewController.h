@@ -19,7 +19,7 @@
 /**
  *  A base controller for the view controllers within the app.
  *
- * Contains app specific defaults and convienience methods
+ * Contains app specific defaults and convenience methods
  */
 @interface ADFBaseViewController : UIViewController
 -(id)initWithTitle:(NSString*)title andImage:(UIImage*)image;
