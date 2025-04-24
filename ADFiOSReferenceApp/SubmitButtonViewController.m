@@ -50,7 +50,7 @@ static NSString * const SUBMIT_BUTTON_TEXT = @"Submit";
 }
 
 /**
- *  Changes the button's color to origional when released
+ *  Changes the button's color to original when released
  *
  *  @param sender the button
  */
