@@ -28,7 +28,7 @@ class NestedViewPage < ADFBasePage
     touch ("UILabel text:'Back'")
   end
 
-  # Presses the next level back button a a specific amount of times
+  # Presses the next level back button a specific amount of times
   def press_next_level_button(number_times)
     puts("Custom")
     number_times.to_i.times do
