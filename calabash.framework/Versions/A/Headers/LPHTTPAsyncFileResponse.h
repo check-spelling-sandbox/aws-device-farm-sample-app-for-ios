@@ -7,7 +7,7 @@
  * This is an asynchronous version of LPHTTPFileResponse.
  * It reads data from the given file asynchronously via LPGCD.
  * 
- * It may be overriden to allow custom post-processing of the data that has been read from the file.
+ * It may be overridden to allow custom post-processing of the data that has been read from the file.
  * An example of this is the LPHTTPDynamicFileResponse class.
 **/
 
