@@ -26,7 +26,7 @@
 @end
 
 static NSString* const FAULTY_URL_ERROR_MESSAGE_TITLE = @"Faulty URL Entered";
-static NSString* const FAULTY_URL_ERROR_MESSAGE_MESSAGE = @"The url that you inputed: %@ is not in the right format. Please put in a url with the correct format. For example http://www.amazon.com";
+static NSString* const FAULTY_URL_ERROR_MESSAGE_MESSAGE = @"The url that you input: %@ is not in the right format. Please put in a url with the correct format. For example http://www.amazon.com";
 static NSString* const ALERT_CANCEL_BUTTON_TITLE = @"OK";
 static NSString* const SUBMIT_BUTTON_TTITLE = @"Go";
 static NSString* const TEXT_FIELD_PLACE_HOLDER_WEBSITE = @"http://www.amazon.com";
