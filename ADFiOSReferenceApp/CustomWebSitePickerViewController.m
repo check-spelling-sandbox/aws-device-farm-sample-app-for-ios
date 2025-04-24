@@ -92,7 +92,7 @@ static NSString* const NAVIGATION_TITLE = @"Input a website";
 }
 
 /**
- *  Goes to the enterned url
+ *  Goes to the entered url
  *
  *  @param sender the go button
  */
