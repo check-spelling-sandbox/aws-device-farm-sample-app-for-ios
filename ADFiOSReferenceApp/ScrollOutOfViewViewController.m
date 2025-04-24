@@ -19,7 +19,7 @@
 @property UILabel *label;
 @end
 
-static NSString* const HIDDENT_TEXT = @"This is hidden text";
+static NSString* const HIDDEN_TEXT = @"This is hidden text";
 
 /**
  *  Scroll out of view view controller
@@ -36,7 +36,7 @@ static NSString* const HIDDENT_TEXT = @"This is hidden text";
  */
 -(void)setUpView{
     _label = [[UILabel alloc] initWithFrame:CGRectMake(0, self.view.frame.size.height * 2, 0, 0)];
-    _label.text = HIDDENT_TEXT;
+    _label.text = HIDDEN_TEXT;
     [_label sizeToFit];
     
     UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame:self.view.frame];
