@@ -81,7 +81,7 @@ static const CGFloat DEFAULT_UITEXTFIELD_HEIGHT = 40;
 }
 
 /**
- *  Positions the view by centering vertially
+ *  Positions the view by centering vertically
  *
  *  @param givenView the view to position
  */
